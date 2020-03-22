@@ -4,7 +4,7 @@ import time
 #底层通信
 def initDB():
       global conn
-      conn = sqlite3.connect('exchange.db')
+      conn = sqlite3.connect('exchange.db',check_same_thread=False)
       print ("Opened database successfully")
       
 def endDB():
