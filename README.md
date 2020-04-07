@@ -28,3 +28,7 @@
 
 ## 五、现有功能
     目前只是文本消息可以收发，其他（如图片、文件、视频等）功能还在开发中
+
+## 六、捐赠
+![image](https://github.com/infopensource/WechatBot/blob/master/039ad7bed4bae4c80baf12d05259c2a.jpg)
+![image](https://github.com/infopensource/WechatBot/blob/master/87ce20c06a594815a618ab4c501d58b.png)
