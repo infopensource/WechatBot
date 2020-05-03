@@ -2,6 +2,9 @@
     API文档
     https://zhuanlan.zhihu.com/p/114214846
 
+    应用下载地址
+    https://quqi.com/s/3637264/0uZlEWpCdNWQ0jZ8
+
 ## 声明
     本软件只用于技术交流，不用于商业以及其他用途，不针对任何第三方，谢谢
 
